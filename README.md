@@ -1,6 +1,6 @@
 # Aplikasi Pencatatan Anggaran Sederhana Berbasis Excel
 
-Pernahkah Anda merasa kesulitan mengelola daftar anggaran atau inventaris barang? Proses mencatat, mengubah, dan menghapus data secara manual di Excel seringkali memakan waktu dan rentan terhadap kesalahan. Bagi banyak pelaku usaha, mahasiswa, atau siapa pun yang bukan seorang programmer, membuat sebuah sistem otomatis terasa seperti hal yang mustahil.
+Pernahkah Anda merasa kesulitan mengelola daftar anggaran atau inventaris barang? Proses mencatat, mengubah, dan menghapus data secara manual di Excel seringkali memakan waktu dan rentan terhadap kesalahan. Bagi banyak pelaku usaha, ibu rumah tangga, atau siapa pun yang bukan seorang programmer, membuat sebuah sistem otomatis terasa seperti hal yang mustahil.
 
 Proyek ini hadir sebagai solusi. Kami telah membangun sebuah sistem **CRUD (Create, Read, Update, Delete)** yang fungsional, sepenuhnya di dalam lingkungan Microsoft Excel yang sudah akrab bagi Anda. Lupakan kerumitan coding; aplikasi ini memungkinkan Anda untuk:
 
