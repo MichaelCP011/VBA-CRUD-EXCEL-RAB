@@ -1,4 +1,4 @@
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/716d6ef9-db0b-4202-a08a-2c2dbbe3d91d" /># Aplikasi Pencatatan Anggaran Sederhana Berbasis Excel
+# Aplikasi Pencatatan Anggaran Sederhana Berbasis Excel
 
 Pernahkah Anda merasa kesulitan mengelola daftar anggaran atau inventaris barang? Proses mencatat, mengubah, dan menghapus data secara manual di Excel seringkali memakan waktu dan rentan terhadap kesalahan. Bagi banyak pelaku usaha, mahasiswa, atau siapa pun yang bukan seorang programmer, membuat sebuah sistem otomatis terasa seperti hal yang mustahil.
 
