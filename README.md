@@ -25,6 +25,7 @@ Aplikasi ini dibangun menggunakan VBA (Visual Basic for Applications), yaitu bah
 2. Di bagian atas, akan muncul bar kuning dengan notifikasi keamanan **"SECURITY WARNING Macros have been disabled."**
 3. Klik tombol **"Enable Content"**.
 4. Setelah itu, semua fitur aplikasi siap untuk digunakan.
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/d237c45c-b677-4f3c-86e7-0d08090a9e3d" />
 
 ## 2. Menambah Data Barang Baru
 Gunakan formulir di sheet **`INPUT BARANG`** untuk memasukkan data.
